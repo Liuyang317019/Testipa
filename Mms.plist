@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://github.com/Liuyang317019/Testipa/raw/master/Mms_Ceshi.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/Liuyang317019/Testipa/raw/master/Icon.57*57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/Liuyang317019/Testipa/raw/master/Icon2.512*512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -22,6 +34,8 @@
 				<string>2.38</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>Mms</string>
 			</dict>
