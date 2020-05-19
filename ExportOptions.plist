@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/dfpvapp/mms_test2/raw/master/Mms_Ceshi.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://github.com/dfpvapp/mms_test2/raw/master</string>
+		<key>fullSizeImageURL</key>
+		<string>https://github.com/dfpvapp/mms_test2/raw/master</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.df.mms</key>
+		<string>DFMMS</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>79A178D3B9746BE4922D7E36314C5885FA7556F7</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>S94NWZ464Z</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
